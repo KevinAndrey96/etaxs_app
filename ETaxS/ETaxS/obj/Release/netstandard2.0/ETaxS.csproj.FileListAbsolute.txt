@@ -1,0 +1,14 @@
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\bin\Release\netstandard2.0\ETaxS.deps.json
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\bin\Release\netstandard2.0\ETaxS.dll
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\bin\Release\netstandard2.0\ref\ETaxS.dll
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\bin\Release\netstandard2.0\ETaxS.pdb
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\ETaxS.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\ETaxS.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\ETaxS.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\ETaxS.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\ETaxS.dll
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\ref\ETaxS.dll
+C:\Users\Andrey\Desktop\ExclusiveTaxServices\ETaxS\ETaxS\ETaxS\obj\Release\netstandard2.0\ETaxS.pdb
